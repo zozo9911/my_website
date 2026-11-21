@@ -1,0 +1,20 @@
+h1{
+    color: rgb(127, 112, 128);
+    background-color: antiquewhite;
+}
+h1:hover{
+    color: rgb(45, 40, 48);
+    background-color: rgb(126, 53, 108);
+}
+h2{
+    color: bisque;
+    background-color: rgb(165, 151, 134);
+}
+h3{
+    color: rgb(15, 14, 15);
+    background-color: rgb(92, 100, 76);
+}
+h3:hover{
+    color: rgb(54, 50, 44);
+    background-color: rgb(183, 0, 255);
+}
